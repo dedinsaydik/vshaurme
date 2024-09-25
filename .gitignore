@@ -1,4 +1,7 @@
 .idea
 .vscode
 .DS_store
+<<<<<<< HEAD
 *.sqlite3
+=======
+>>>>>>> 5d5ab180e8840a6a36b26f12a5ae074213612a13
